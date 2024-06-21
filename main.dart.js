@@ -78129,7 +78129,7 @@ $2(a,b){return A.aoX(B.Dt,this.a.d,!0)},
 $S:465}
 A.Ix.prototype={
 J(a){var s=null,r=A.bz(a,B.cX,t.w).w.a,q=r.a
-return A.eq(s,new A.cl(B.Bn,A.l9(A.b([B.aZ,A.ec(A.il(A.a9X(B.O,-0.15,A.nI("assets/images/bike.png",B.br,s,!0,q*0.6)),s,s),s,q),B.e2,A.d5("About me",s,s,$.E_()),B.e2,A.akD(u.g,s,B.rg,A.cP(s,s,B.i,s,s,s,s,s,s,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.cP)],t.E),B.bm,B.a5,B.ab),s),B.u,B.hC,s,r.b,s,s,s)}}
+return A.eq(s,new A.cl(B.Bn,A.l9(A.b([B.aZ,A.ec(A.il(A.a9X(B.O,-0.15,A.nI("assets/images/bike.png",B.br,s,!0,q*0.6)),s,s),s,q),B.e2,A.d5("About me",s,s,$.E_()),B.e2,A.akD(u.g,s,B.rg,A.cP(s,s,B.i,s,s,s,s,s,s,s,s,12,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.cP)],t.E),B.bm,B.a5,B.ab),s),B.u,B.hC,s,r.b,s,s,s)}}
 A.Iy.prototype={
 J(a){var s,r,q,p,o=null,n=A.bz(a,B.cX,t.w).w.a,m=t.E,l=A.iY(A.b([A.d5("Hello!",o,o,A.cP(o,o,B.aM,o,o,o,o,o,o,o,o,35,o,o,B.ax,o,o,!0,o,o,o,o,o,o,o,o)),A.d5(" , I'm Akshay",o,o,A.cP(o,o,B.i,o,o,o,o,o,o,o,o,35,o,o,B.ax,o,o,!0,o,o,o,o,o,o,o,o))],m),B.av,B.a5,B.ab),k=A.d5("Flutter Developer",o,o,A.cP(o,o,B.i,o,o,o,o,o,o,o,o,30,o,o,B.ax,o,o,!0,o,o,o,o,o,o,o,o)),j=A.iY(A.b([A.d5("Based in India",o,o,A.cP(o,o,B.i,o,o,o,o,o,o,o,o,25,o,o,B.ax,o,o,!0,o,o,o,o,o,o,o,o)),new A.cl(B.lu,A.nI("assets/images/in_flag.png",B.bq,o,!1,o),o)],m),B.av,B.a5,B.ab),i=t.U
 i=A.ec(A.akZ(B.lS,B.x9,new A.a42(),A.pH(o,o,new A.ba(new A.a43(),i),o,o,o,new A.ba(new A.a44(),i),o,o,o,o,o,o,o,o,o,o,o,o,o,o,o)),60,200)
